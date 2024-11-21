@@ -1,6 +1,10 @@
 # Simple3Dspiral
-Visualization of  CONICAL SPIRAL OF PAPPUS.  Algorithm that render spheres that create spiral
-Simple algorithm written in three.js that render a conical spiral of pappus.  Using point light and three walls to better view. We can manipulate three parametres of camera ->  camera.position.set(-10, 30, 15000); . 
+## Visualization of  CONICAL SPIRAL OF PAPPUS.  Algorithm that render spheres that create spiral
+
+
+## Simple algorithm written in three.js that render a conical spiral of pappus. 
+## Using point light and three walls to better view.
+We can manipulate three parametres of camera ->  camera.position.set(-10, 30, 15000); . 
 We can modify spiral parametion here  
 // Parametry spirali
   const a = 80; // Współczynnik skali
